@@ -43,6 +43,7 @@ Contributors
 * Leonardo Donelli <donelli@webmonks.it>
 * Jay Vora <jay.vora@serpentcs.com>
 * Meet Dholakia <m.dholakia.serpentcs@gmail.com>
+* Frédéric Garbely <frederic.garbely@braintec-group.com>
 
 Maintainer
 ----------

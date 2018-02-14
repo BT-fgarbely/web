@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
@@ -27,11 +26,12 @@
 ##############################################################################
 {
     'name': 'Show images in tree views',
-    'version': '10.0.1.1.0',
+    'version': '11.0.1.0.0',
     'author': "Therp BV, "
               "MONK Software, "
               "Odoo Community Association (OCA), "
-              "Serpent Consulting Services Pvt. Ltd.",
+              "Serpent Consulting Services Pvt. Ltd., "
+              "brain-tec AG",
     'website': 'https://github.com/OCA/Web',
     'license': 'AGPL-3',
     'category': 'Web',
